@@ -52,17 +52,12 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ## Table of contents
 
-- [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -73,10 +68,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/demi05/Huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://demi05.github.io/Huddle-landing-page/)
-
-## My process
+- Solution URL: [My Solution](https://github.com/demi05/Huddle-landing-page)
+- Live Site URL: [My Live Site](https://demi05.github.io/Huddle-landing-page/)
 
 ### Built with
 
